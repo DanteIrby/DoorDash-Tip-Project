@@ -1,0 +1,96 @@
+Restaurant,No of Orders,Tipped Orders,No Tip Orders,No Tip Percent,Average Tip
+NAPA,5,0,5,100.00%,$0.00
+1800 Radiator,1,0,1,100.00%,$0.00
+Hong Kong Chinese,2,0,2,100.00%,$0.00
+Tiki Docks,1,0,1,100.00%,$0.00
+Stoked Poke,3,1,2,66.67%,$1.33
+Sonic,4,2,2,50.00%,$2.00
+Moes,8,5,3,37.50%,$2.16
+Wingstop,2,1,1,50.00%,$1.50
+J&B Kingston,2,1,1,50.00%,$1.00
+Don Giovanni,2,1,1,50.00%,$3.00
+Popeyes,11,5,6,54.55%,$2.27
+Dennys,8,4,4,50.00%,$1.81
+Pizza Hut,44,24,20,45.45%,$3.22
+China Star,8,5,3,37.50%,$4.44
+Tijuana Flats,3,2,1,33.33%,$4.33
+Super Wok,3,2,1,33.33%,$4.83
+Ginza,5,3,2,40.00%,$4.00
+Tasty Chickn,3,2,1,33.33%,$2.33
+Red Bowl,4,3,1,25.00%,$1.68
+Red Robin,3,2,1,33.33%,$4.33
+Wendys,11,7,4,36.36%,$2.25
+KFC,7,5,2,28.57%,$1.64
+Burger King,7,4,3,42.86%,$4.79
+Chipotle,20,16,4,20.00%,$2.99
+Chicken Salad Chick,5,4,1,20.00%,$4.40
+Papa Johns,11,8,3,27.27%,$3.95
+McDonalds,45,37,8,17.78%,$2.58
+Taco Bell,11,9,2,18.18%,$2.50
+Marcos Pizza,11,9,2,18.18%,$4.43
+Dahlia,6,5,1,16.67%,$6.08
+Applebees,6,5,1,16.67%,$4.50
+Del Taco,6,5,1,16.67%,$1.71
+First Watch,8,7,1,12.50%,$4.88
+Panda Express,8,7,1,12.50%,$2.57
+Peach Valley Cafe,9,8,1,11.11%,$2.97
+Unknown,8,7,1,12.50%,$2.08
+Culvers,11,10,1,9.09%,$2.97
+CFA,51,45,6,11.76%,$3.42
+Starbucks,12,11,1,8.33%,$2.44
+Panera,14,12,2,14.29%,$3.83
+Arbys,6,6,0,0.00%,$3.92
+Chilis,10,10,0,0.00%,$5.40
+Dunkin Donuts,11,11,0,0.00%,$3.11
+Dustins BBQ,6,6,0,0.00%,$8.00
+Jersey Mikes,14,14,0,0.00%,$4.68
+Millers Ale House,5,5,0,0.00%,$8.90
+Firehouse Subs,5,5,0,0.00%,$2.70
+Manzanos Deli,5,5,0,0.00%,$4.55
+Royal Rasoi,4,4,0,0.00%,$2.69
+Jojos Taste of Chi,4,4,0,0.00%,$6.63
+Taqueria Juanita,3,3,0,0.00%,$5.00
+Luigis Pizza,3,3,0,0.00%,$3.83
+Another Broken Egg,4,4,0,0.00%,$4.00
+Sushi 99,4,4,0,0.00%,$6.13
+La Fiesta,2,2,0,0.00%,$3.25
+Filo,2,2,0,0.00%,$5.00
+Wawa,2,2,0,0.00%,$1.00
+Asian Sauce Box,2,2,0,0.00%,$2.50
+Metro Diner,1,1,0,0.00%,$11.00
+Zaxbys,1,1,0,0.00%,$1.75
+Mels Diner,1,1,0,0.00%,$4.75
+Its Just Wings,1,1,0,0.00%,$5.00
+Wild Ginger,1,1,0,0.00%,$4.00
+Mama Mias,1,1,0,0.00%,$3.50
+Asian House,1,1,0,0.00%,$1.50
+Hi Boba Tea,1,1,0,0.00%,$11.50
+Jets Pizza,1,1,0,0.00%,$6.50
+Petco,1,1,0,0.00%,$2.70
+Osaka Sushi,1,1,0,0.00%,$5.50
+PF Changs,1,1,0,0.00%,$7.00
+Eat Greek,1,1,0,0.00%,$3.50
+Tia Coris Tacos,1,1,0,0.00%,$3.50
+7Eleven,1,1,0,0.00%,$3.50
+Bronx House Pizza,1,1,0,0.00%,$9.00
+Neigborhood Ice Cream,1,1,0,0.00%,$3.00
+Kingdom Acai,1,1,0,0.00%,$2.00
+Joy Luck Cafe,1,1,0,0.00%,$3.17
+Dairy Queen,1,1,0,0.00%,$10.00
+Hibachi Express,1,1,0,0.00%,$8.00
+Tropical Smoothie,1,1,0,0.00%,$5.50
+Bob Evans,1,1,0,0.00%,$2.00
+AA Garden Fusion,1,1,0,0.00%,$5.00
+Lan Lamoon,1,1,0,0.00%,$13.00
+Wayback Burgers,1,1,0,0.00%,$7.00
+Subway,1,1,0,0.00%,$1.50
+Rice Bistro,1,1,0,0.00%,$5.50
+Jeremiahs Italian Ice,1,1,0,0.00%,$3.00
+Dough Bros Pizza,1,1,0,0.00%,$8.00
+Jerrys Italian Grill,1,1,0,0.00%,$8.50
+Banda Burrito,1,1,0,0.00%,$1.75
+Malibu Beach Grill,1,1,0,0.00%,$1.00
+Cold Stone,2,2,0,0.00%,$2.13
+Auntie Annes,1,1,0,0.00%,$4.00
+Beast Coast Nutrition,1,1,0,0.00%,$2.00
+China Chef,1,1,0,0.00%,$1.63
